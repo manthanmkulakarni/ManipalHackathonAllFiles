@@ -1,0 +1,6 @@
+A moment of silence, please...
+Set minimum energy threshold to 1165.69081837
+Say something!
+Got it! Now to recognize it...
+Oops! Didn't catch that
+Say something!
